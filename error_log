@@ -1,0 +1,115 @@
+[28-Mar-2026 18:13:07 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'formndbl_formix.users' doesn't exist in /home/formndbl/public_html/register.php:17
+Stack trace:
+#0 /home/formndbl/public_html/register.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/formndbl/public_html/register.php on line 17
+[28-Mar-2026 18:13:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'formndbl_formix.users' doesn't exist in /home/formndbl/public_html/register.php:17
+Stack trace:
+#0 /home/formndbl/public_html/register.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/formndbl/public_html/register.php on line 17
+[28-Mar-2026 18:13:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'formndbl_formix.users' doesn't exist in /home/formndbl/public_html/register.php:17
+Stack trace:
+#0 /home/formndbl/public_html/register.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/formndbl/public_html/register.php on line 17
+[28-Mar-2026 18:13:50 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'formndbl_formix.users' doesn't exist in /home/formndbl/public_html/login.php:18
+Stack trace:
+#0 /home/formndbl/public_html/login.php(18): PDOStatement->execute()
+#1 {main}
+  thrown in /home/formndbl/public_html/login.php on line 18
+[12-Apr-2026 12:14:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'formndbl_formix.diet_profiles' doesn't exist in /home/formndbl/public_html/diet.php:82
+Stack trace:
+#0 /home/formndbl/public_html/diet.php(82): PDOStatement->execute()
+#1 {main}
+  thrown in /home/formndbl/public_html/diet.php on line 82
+[12-Apr-2026 12:15:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'formndbl_formix.diet_profiles' doesn't exist in /home/formndbl/public_html/diet.php:82
+Stack trace:
+#0 /home/formndbl/public_html/diet.php(82): PDOStatement->execute()
+#1 {main}
+  thrown in /home/formndbl/public_html/diet.php on line 82
+[12-Apr-2026 12:16:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'formndbl_formix.diet_profiles' doesn't exist in /home/formndbl/public_html/diet.php:82
+Stack trace:
+#0 /home/formndbl/public_html/diet.php(82): PDOStatement->execute()
+#1 {main}
+  thrown in /home/formndbl/public_html/diet.php on line 82
+[12-Apr-2026 12:16:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'formndbl_formix.diet_profiles' doesn't exist in /home/formndbl/public_html/diet.php:82
+Stack trace:
+#0 /home/formndbl/public_html/diet.php(82): PDOStatement->execute()
+#1 {main}
+  thrown in /home/formndbl/public_html/diet.php on line 82
+[12-Apr-2026 12:17:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'formndbl_formix.diet_profiles' doesn't exist in /home/formndbl/public_html/diet.php:82
+Stack trace:
+#0 /home/formndbl/public_html/diet.php(82): PDOStatement->execute()
+#1 {main}
+  thrown in /home/formndbl/public_html/diet.php on line 82
+[12-Apr-2026 12:17:50 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'formndbl_formix.diet_profiles' doesn't exist in /home/formndbl/public_html/diet.php:82
+Stack trace:
+#0 /home/formndbl/public_html/diet.php(82): PDOStatement->execute()
+#1 {main}
+  thrown in /home/formndbl/public_html/diet.php on line 82
+[12-Apr-2026 12:18:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'formndbl_formix.diet_profiles' doesn't exist in /home/formndbl/public_html/diet.php:82
+Stack trace:
+#0 /home/formndbl/public_html/diet.php(82): PDOStatement->execute()
+#1 {main}
+  thrown in /home/formndbl/public_html/diet.php on line 82
+[12-Apr-2026 12:19:07 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'glass_count' in 'SELECT' in /home/formndbl/public_html/diet.php:142
+Stack trace:
+#0 /home/formndbl/public_html/diet.php(142): PDOStatement->execute()
+#1 {main}
+  thrown in /home/formndbl/public_html/diet.php on line 142
+[12-Apr-2026 12:19:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'glass_count' in 'SELECT' in /home/formndbl/public_html/diet.php:142
+Stack trace:
+#0 /home/formndbl/public_html/diet.php(142): PDOStatement->execute()
+#1 {main}
+  thrown in /home/formndbl/public_html/diet.php on line 142
+[12-Apr-2026 12:21:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'glass_count' in 'SELECT' in /home/formndbl/public_html/diet.php:142
+Stack trace:
+#0 /home/formndbl/public_html/diet.php(142): PDOStatement->execute()
+#1 {main}
+  thrown in /home/formndbl/public_html/diet.php on line 142
+[12-Apr-2026 12:21:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'glass_count' in 'SELECT' in /home/formndbl/public_html/diet.php:142
+Stack trace:
+#0 /home/formndbl/public_html/diet.php(142): PDOStatement->execute()
+#1 {main}
+  thrown in /home/formndbl/public_html/diet.php on line 142
+[12-Apr-2026 12:35:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'glass_count' in 'SELECT' in /home/formndbl/public_html/diet.php:142
+Stack trace:
+#0 /home/formndbl/public_html/diet.php(142): PDOStatement->execute()
+#1 {main}
+  thrown in /home/formndbl/public_html/diet.php on line 142
+[12-Apr-2026 12:35:40 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'glass_count' in 'SELECT' in /home/formndbl/public_html/diet.php:142
+Stack trace:
+#0 /home/formndbl/public_html/diet.php(142): PDOStatement->execute()
+#1 {main}
+  thrown in /home/formndbl/public_html/diet.php on line 142
+[12-Apr-2026 12:35:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'glass_count' in 'SELECT' in /home/formndbl/public_html/diet.php:142
+Stack trace:
+#0 /home/formndbl/public_html/diet.php(142): PDOStatement->execute()
+#1 {main}
+  thrown in /home/formndbl/public_html/diet.php on line 142
+[12-Apr-2026 12:35:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'glass_count' in 'SELECT' in /home/formndbl/public_html/diet.php:142
+Stack trace:
+#0 /home/formndbl/public_html/diet.php(142): PDOStatement->execute()
+#1 {main}
+  thrown in /home/formndbl/public_html/diet.php on line 142
+[12-Apr-2026 12:48:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_general_ci,COERCIBLE) for operation 'coalesce' in /home/formndbl/public_html/calorie.php:133
+Stack trace:
+#0 /home/formndbl/public_html/calorie.php(133): PDOStatement->execute()
+#1 {main}
+  thrown in /home/formndbl/public_html/calorie.php on line 133
+[12-Apr-2026 12:48:50 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_general_ci,COERCIBLE) for operation 'coalesce' in /home/formndbl/public_html/calorie.php:133
+Stack trace:
+#0 /home/formndbl/public_html/calorie.php(133): PDOStatement->execute()
+#1 {main}
+  thrown in /home/formndbl/public_html/calorie.php on line 133
+[12-Apr-2026 12:49:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_general_ci,COERCIBLE) for operation 'coalesce' in /home/formndbl/public_html/calorie.php:133
+Stack trace:
+#0 /home/formndbl/public_html/calorie.php(133): PDOStatement->execute()
+#1 {main}
+  thrown in /home/formndbl/public_html/calorie.php on line 133
+[12-Apr-2026 12:49:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_general_ci,COERCIBLE) for operation 'coalesce' in /home/formndbl/public_html/calorie.php:133
+Stack trace:
+#0 /home/formndbl/public_html/calorie.php(133): PDOStatement->execute()
+#1 {main}
+  thrown in /home/formndbl/public_html/calorie.php on line 133
